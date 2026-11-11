@@ -41,9 +41,9 @@
       <p>Configured and manage self-hosted automated quest bots, webhook triggers, and community automation workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🔬 Ecosystem & Research</h4>
-      <p><b>Prototyping & Societies</b></p>
-      <p>Participated in <b>NCERT PRAYAAS</b> (scientific research prototyping) & active technical member at <b>ELEVON</b> (Robotics & Automation Society, JEC).</p>
+      <h4>🔬 NCERT PRAYAAS</h4>
+      <p><b>Research & Technical Prototyping</b></p>
+      <p>Participated in scientific research, problem analysis, and building solution prototypes under the national-level NCERT PRAYAAS initiative.</p>
     </td>
   </tr>
 </table>
@@ -68,12 +68,6 @@
 
 <a href="https://github.com/Tech-Enthusiast-0">
   <img src="https://streak-stats.demolab.com?user=Tech-Enthusiast-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Tech-Enthusiast-0">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Enthusiast-0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </a>
 
 </div>
